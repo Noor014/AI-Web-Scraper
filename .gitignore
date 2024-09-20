@@ -1,0 +1,9 @@
+# Ignore pycache and pyc files
+__pycache__/
+*.pyc
+
+# Ignore virtual environment folder
+ai/
+
+# Ignore Chrome driver
+chromedriver.exe
